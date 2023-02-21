@@ -1,5 +1,6 @@
 PyQt5
 PyQt5-sip
 PyQtWebEngine
-json
-numpy
+json5==0.9.5
+jsonschema==3.2.0
+numpy==1.18.5
